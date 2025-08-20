@@ -1,3 +1,33 @@
 video 1 - machine learning ki? kivabe software development diye alada. Ml er itihas ar chakrir bazar.
 
 video 2 - AI vs ML vs DL
+
+video 3 - types of ml:  
+	1. Supervised [input and output er vetor relation khuje ber kora] IQ + CGPA = Chance
+		a. Regression (Numerical data)
+		b. Classification (String data)
+	2.Unsupervised [input daoa ache kintu output daoa nei]
+		a. Clustering (category tea divide kore fele)
+		b. Dimensionality Reduction (unnecessary coloumn bad dia dey)
+		c. Anomoly detection (ekta 2 ta vul val mane abnormal hoile bad diye dey)
+		d. Association (jinishpati sajay rakha)
+	3. Semi supervised (example google photos, ekta dhore samne agano)
+	4. Reinforcement [data deboi nah, scratch theke suru kore aste aste sikhe] - agent
+
+	#There are two type of data
+	1. Numerical
+	2. Categorical
+
+video 4 - ml product server e jevabe behave kore tar upor base kore ml 2 prokar:
+	1. Batch ML - pura data ke eksathe use kori model ke train korar jonno, eida ofline                       		      kore karon online e eto boro data costly. 
+
+question -- ami bar bar data train kortici protibar purano shono notun keno? purano diye to already sea trained taile eidate same kaj bar bar kora hocche nah?
+		Limitation:
+			1.Limitation of data
+			2.Hardware limitation
+			3.Availability
+
+	2. Online ML
+
+
+		
